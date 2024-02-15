@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     <h1>My News Website</h1>
