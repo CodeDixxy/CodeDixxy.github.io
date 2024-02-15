@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <head>
     <h1>My News Website</h1>
 <head>
@@ -10,4 +8,3 @@
     <p><a href="BasicWebDev/Online News Article.pdf" target="_blank">Download PDF</a></p>
     <p>For more news, visit our <a href="https://www.thedailyupside.com" target="_blank">external news source</a>.</p>
 </body>
-</html>
