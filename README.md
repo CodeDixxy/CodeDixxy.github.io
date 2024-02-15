@@ -1,3 +1,13 @@
-<h1>Ryan Gaidis </h1>
-
-<p><a href="/BasicWebDev/Online News Article.pdf" target="blank">Online News Article</a></p>
+<!DOCTYPE html>
+<html>
+<head>
+    <h1>My News Website</h1>
+<head>
+<body>
+    <h2>Welcome to My News Website</h2>
+    <p>Check out our latest article:</p>
+    <h2><a href="article.html">Learn Magic</a></h2>
+    <p><a href="article.pdf" target="_blank">Download PDF</a></p>
+    <p>For more news, visit our <a href="external-news.html" target="_blank">external news source</a>.</p>
+</body>
+</html>
