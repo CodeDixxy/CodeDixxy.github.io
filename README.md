@@ -54,3 +54,52 @@
     </ul>
 </body>
 </html>
+
+<!-- Start of Math Test -->
+
+<form>
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name"><br><br>
+  
+  <p>Multiple Choice Questions:</p>
+  
+  <p>1. What is the result of 5 + 3?</p>
+  <input type="radio" id="q1a" name="q1" value="a">
+  <label for="q1a">a) 7</label><br>
+  <input type="radio" id="q1b" name="q1" value="b">
+  <label for="q1b">b) 8</label><br>
+  <input type="radio" id="q1c" name="q1" value="c">
+  <label for="q1c">c) 6</label><br><br>
+  
+  <p>2. What is the square root of 25?</p>
+  <input type="radio" id="q2a" name="q2" value="a">
+  <label for="q2a">a) 5</label><br>
+  <input type="radio" id="q2b" name="q2" value="b">
+  <label for="q2b">b) 4</label><br>
+  <input type="radio" id="q2c" name="q2" value="c">
+  <label for="q2c">c) 6</label><br><br>
+  
+  <p>3. What is the result of 7 multiplied by 3?</p>
+  <input type="radio" id="q3a" name="q3" value="a">
+  <label for="q3a">a) 10</label><br>
+  <input type="radio" id="q3b" name="q3" value="b">
+  <label for="q3b">b) 21</label><br>
+  <input type="radio" id="q3c" name="q3" value="c">
+  <label for="q3c">c) 28</label><br><br>
+  
+  <p>Word Problem:</p>
+  <p>Solve the following equation for x:</p>
+
+  
+  <p>Math Symbols:</p>
+  <p>&sum; (Summation)</p>
+  <p>&times; (Multiplication)</p>
+  <p>&radic; (Square Root)</p><br>
+  
+  <input type="submit" value="Submit">
+</form>
+
+<!-- End of Math Test -->
+
+
+
