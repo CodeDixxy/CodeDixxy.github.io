@@ -101,5 +101,75 @@
 
 <!-- End of Math Test -->
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Color Scheme Table</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: center;
+    }
+    th {
+      background-color: #f2f2f2;
+      font-family: Arial, sans-serif;
+      font-weight: bold;
+    }
+    td {
+      font-family: Arial, sans-serif;
+    }
+    .color-name {
+      font-style: italic;
+    }
+    .color-sample {
+      width: 50px;
+      height: 50px;
+    }
+  </style>
+</head>
+<body>
+
+<h1 style="font-family: Arial, sans-serif;">My Color Scheme</h1>
+
+<table>
+  <tr>
+    <th>Color Name</th>
+    <th>Hex</th>
+    <th>RGB</th>
+    <th>HSL</th>
+  </tr>
+  <tr>
+    <td class="color-name">Red</td>
+    <td class="color-sample" style="background-color: #ff0000;"></td>
+    <td>rgb(255, 0, 0)</td>
+    <td>hsl(0, 100%, 50%)</td>
+  </tr>
+  <tr>
+    <td class="color-name">Green</td>
+    <td class="color-sample" style="background-color: #00ff00;"></td>
+    <td>rgb(0, 255, 0)</td>
+    <td>hsl(120, 100%, 50%)</td>
+  </tr>
+  <tr>
+    <td class="color-name">Blue</td>
+    <td class="color-sample" style="background-color: #0000ff;"></td>
+    <td>rgb(0, 0, 255)</td>
+    <td>hsl(240, 100%, 50%)</td>
+  </tr>
+  <tr>
+    <td class="color-name">Yellow</td>
+    <td class="color-sample" style="background-color: #ffff00;"></td>
+    <td>rgb(255, 255, 0)</td>
+    <td>hsl(60, 100%, 50%)</td>
+  </tr>
+</table>
+
+</body>
+</html>
 
 
