@@ -211,5 +211,55 @@
             <li>Red Wine</li>
         </ul>
     </div>
+    body {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.menu {
+    width: 400px;
+    height: 550px;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.breakfast {
+    background-image: url('breakfast.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.lunch {
+    background-image: url('lunch.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.dinner {
+    background-image: url('dinner.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
 </body>
 </html>
