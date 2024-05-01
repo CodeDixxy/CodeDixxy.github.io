@@ -263,3 +263,77 @@ li {
 }
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Busy Day Schedule</title>
+    <style>
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        
+        th, td {
+            border: 1px solid #000;
+            padding: 10px;
+            text-align: center;
+        }
+        
+        th {
+            background-color: #f0f0f0;
+        }
+        
+        .important {
+            font-weight: bold;
+        }
+        
+        .time {
+            width: 20%;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Busy Day Schedule</h1>
+    <table>
+        <tr>
+            <th>Time</th>
+            <th>Event</th>
+        </tr>
+        <tr>
+            <td class="time">08:00 AM</td>
+            <td>Breakfast</td>
+        </tr>
+        <tr>
+            <td class="time">09:00 AM</td>
+            <td class="important">Work Meeting</td>
+        </tr>
+        <tr>
+            <td class="time">11:00 AM</td>
+            <td>Client Call</td>
+        </tr>
+        <tr>
+            <td class="time">12:30 PM</td>
+            <td>Lunch</td>
+        </tr>
+        <tr>
+            <td class="time">02:00 PM</td>
+            <td>Doctor's Appointment</td>
+        </tr>
+        <tr>
+            <td class="time">04:00 PM</td>
+            <td>Exercise</td>
+        </tr>
+        <tr>
+            <td class="time">06:00 PM</td>
+            <td>Dinner</td>
+        </tr>
+        <tr>
+            <td class="time">08:00 PM</td>
+            <td>Movie Night</td>
+        </tr>
+    </table>
+</body>
+</html>
