@@ -359,15 +359,29 @@ li {
     <div class="team-member">
         <img src="member1.jpg" alt="Team Member 1">
         <div class="bio">
-            <h2>John Doe</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Integer feugiat libero ut nisi tempus, sed aliquam lacus cursus.</p>
+            <h2>Kelly Martha</h2>
+            <p>Kelly Martha is a passionate graphic designer with over a decade of experience in creating visually stunning designs. With a keen eye for detail and a knack for creativity, Kelly has worked with various clients, ranging from small startups to large corporations. She believes that good design has the power to make a lasting impact and is dedicated to delivering top-notch design solutions that exceed expectations.</p>
         </div>
     </div>
     <div class="team-member">
         <img src="member2.jpg" alt="Team Member 2">
         <div class="bio">
             <h2>Jane Smith</h2>
-            <p>Quisque id nisi ut velit feugiat dictum. Sed a mauris sed ante lobortis congue. Nam sit amet varius sapien.</p>
+            <p>Jane Smith is a skilled software engineer specializing in web development. With a strong background in programming languages such as HTML, CSS, and JavaScript, Jane has built numerous dynamic and user-friendly websites for clients across different industries. She is known for her problem-solving skills and ability to tackle complex coding challenges with ease. Jane is passionate about technology and is always eager to stay updated with the latest trends in web development.</p>
+        </div>
+    </div>
+      <div class="team-member">
+        <img src="member3.jpg" alt="Team Member 3">
+        <div class="bio">
+            <h2>Allan Bourne</h2>
+            <p>Allan Bourne is a seasoned project manager with a proven track record of successfully leading teams and delivering projects on time and within budget. With excellent communication and organizational skills, Allan excels at coordinating team efforts, setting clear project goals, and overcoming obstacles along the way. His commitment to quality and dedication to client satisfaction have earned him praise from colleagues and clients alike.</p>
+        </div>
+    </div>
+    <div class="team-member">
+        <img src="member4.jpg" alt="Team Member 4">
+        <div class="bio">
+            <h2>Nick Write</h2>
+            <p>Nick Write is a talented content writer known for his ability to craft engaging and informative content across various platforms. With a background in journalism and a passion for storytelling, Nick brings creativity and flair to every piece of writing he produces. Whether it's blog posts, articles, or social media content, Nick has a knack for capturing the attention of readers and delivering messages that resonate.</p>
         </div>
     </div>
       <!-- Add more team members as needed -->    
