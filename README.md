@@ -337,3 +337,43 @@ li {
     </table>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Our Team</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#services">Our Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="team-member">
+        <img src="member1.jpg" alt="Team Member 1">
+        <div class="bio">
+            <h2>John Doe</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Integer feugiat libero ut nisi tempus, sed aliquam lacus cursus.</p>
+        </div>
+    </div>
+    <div class="team-member">
+        <img src="member2.jpg" alt="Team Member 2">
+        <div class="bio">
+            <h2>Jane Smith</h2>
+            <p>Quisque id nisi ut velit feugiat dictum. Sed a mauris sed ante lobortis congue. Nam sit amet varius sapien.</p>
+        </div>
+    </div>
+      <!-- Add more team members as needed -->    
+    <footer>
+        <p>&copy; 2024 Our Company. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
