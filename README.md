@@ -172,4 +172,44 @@
 </body>
 </html>
 
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menus</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="menu breakfast">
+        <h2>Breakfast</h2>
+        <ul>
+            <li>Eggs Benedict</li>
+            <li>Pancakes with Maple Syrup</li>
+            <li>Fruit Salad</li>
+            <li>Smoked Salmon Bagel</li>
+            <li>Orange Juice</li>
+        </ul>
+    </div>
+    <div class="menu lunch">
+        <h2>Lunch</h2>
+        <ul>
+            <li>Caesar Salad</li>
+            <li>Grilled Chicken Sandwich</li>
+            <li>Vegetable Soup</li>
+            <li>Club Sandwich</li>
+            <li>Iced Tea</li>
+        </ul>
+    </div>
+    <div class="menu dinner">
+        <h2>Dinner</h2>
+        <ul>
+            <li>Filet Mignon</li>
+            <li>Grilled Salmon</li>
+            <li>Roast Chicken</li>
+            <li>Vegetable Stir-Fry</li>
+            <li>Red Wine</li>
+        </ul>
+    </div>
+</body>
+</html>
