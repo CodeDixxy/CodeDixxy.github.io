@@ -432,4 +432,79 @@ li {
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="scorecard_styles.css">
+</head>
+<body>
+    <h1>Golf Scorecard</h1>
+    <table class="scorecard">
+        <tr>
+            <th>Hole</th>
+            <th>Par</th>
+            <th>Player 1</th>
+            <th>Player 2</th>
+            <!-- Add more players if needed -->
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>4</td>
+            <td contenteditable="true"></td>
+            <td contenteditable="true"></td>
+        </tr>
+        <!-- Add more rows for additional holes -->
+    </table>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="scorecard_styles.css">
+</head>
+<body>
+    <h1>Baseball Scorecard</h1>
+    <table class="scorecard">
+        <tr>
+            <th>Inning</th>
+            <th>Team 1</th>
+            <th>Team 2</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td contenteditable="true"></td>
+            <td contenteditable="true"></td>
+        </tr>
+        <!-- Add more rows for additional innings -->
+    </table>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="scorecard_styles.css">
+</head>
+<body>
+    <h1>Bowling Scorecard</h1>
+    <table class="scorecard">
+        <tr>
+            <th>Frame</th>
+            <th>Player 1</th>
+            <th>Player 2</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td contenteditable="true"></td>
+            <td contenteditable="true"></td>
+        </tr>
+        <!-- Add more rows for additional frames -->
+    </table>
+</body>
+</html>
 
