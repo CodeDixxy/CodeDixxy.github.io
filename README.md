@@ -390,4 +390,46 @@ li {
     </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Grid and Flexbox Puzzle Assignment</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="grid-container">
+        <div class="name-section">Ryan Gaidis</div>
+        <div class="puzzle-section">Selected Puzzle: Snowman</div>
+        <div class="date-section">Assignment Date: May 1, 2024</div>
+    </div>
+    <div class="flex-container">
+        <!-- Flex items (puzzle pieces) will be added dynamically using Flexbox -->
+    </div>
+    .grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-item {
+    width: 100px; /* Adjust according to puzzle piece size */
+    height: 100px; /* Adjust according to puzzle piece size */
+    background-color: #ddd; /* Placeholder color for puzzle pieces */
+    margin: 5px; /* Adjust spacing between puzzle pieces */
+}
+
+.faulty-piece {
+    display: none; /* Hide faulty puzzle piece */
+}
+
+</body>
+</html>
 
