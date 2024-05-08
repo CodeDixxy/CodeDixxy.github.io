@@ -507,4 +507,7 @@ li {
     </table>
 </body>
 </html>
-
+<html>
+    <h2>How To Add a Video Onto YOUR Website!</h2>
+    <p2><a href=""C:\Users\Ryan\Downloads\BWD video step by step- blank.pdf"" target="_blank">Download PDF</a></p2>
+</html>
