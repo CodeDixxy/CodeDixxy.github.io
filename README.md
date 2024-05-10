@@ -511,3 +511,57 @@ li {
     <h2>How To Add a Video Onto YOUR Website!</h2>
     <p2><a href="BasicWebDev/BWD video step by step- blank.pdf" target="_blank">Download PDF</a></p2>
 </html>
+<!-- HTML -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <h1>Flashcard Review</h1>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1 class="title">Flashcard Review</h1>
+    </header>
+    <main>
+        <section class="container">
+            <article class="card">
+                <h2 class="question">Who created the movie Cars?</h2>
+                <p class="answer">Disney's Pixar</p>
+            </article>
+            <article class="card">
+                <h2 class="question">What type of handwriting invloves one continuious stroke?</h2>
+                <p class="answer">Cursive</p>
+            </article>
+            <!-- Add more cards here -->
+            <article class="card">
+                <h2 class="question">Who is the biggest sports brand in the world?</h2>
+                <p class="answer">Nike</p>
+            </article>
+              <article class="card">
+                <h2 class="question">What part of a car quites an exaust?</h2>
+                <p class="answer">muffler</p>
+            </article>
+            <article class="card">
+                <h2 class="question">What Anabloic Steriod was originally developed for the cattle industry but is now used by professional body builders?</h2>
+                <p class="answer">Trenbalone Acetate</p>
+            </article>
+            <!-- Add more cards here -->
+            <article class="card">
+                <h2 class="question">What company created the Vision Pro?</h2>
+                <p class="answer">Apple</p>
+            </article>
+              <article class="card">
+                <h2 class="question">What is the most popular AI software?</h2>
+                <p class="answer">ChatGPT</p>
+            </article>
+            <article class="card">
+                <h2 class="question">What is the most popular luxury watch brand?</h2>
+                <p class="answer">Rolex</p>
+            </article>
+        </section>
+    </main>
+
+</body>
+</html>
