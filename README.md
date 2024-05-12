@@ -565,3 +565,43 @@ li {
 
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Trading Stock Options and Crypto</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<header>
+		<h1>Trading Stock Options and Crypto</h1>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="#intro">Introduction</a></li>
+	<html>
+  <head>
+    <title>Trading Stock Options and Crypto</title>
+  </head>
+  <body>
+    <h1>Trading Stock Options and Crypto</h1>
+    <p>This website provides an in-depth look at trading stock options and crypto. It covers the basics of what stock options and crypto are, common chart patterns and candle stick patterns, support and resistance, and trading indicators.</p>
+    <h2>What is a stock option?</h2>
+    <p>A stock option is a contract that gives the holder the right, but not the obligation, to buy or sell a specified amount of a particular stock at a predetermined price within a specified time period.</p>
+    <p>There are two types of stock options: call options and put options.</p>
+    <p>Stock options are traded on organized exchanges, such as the Chicago Board Options Exchange (CBOE) and the American Stock Exchange (AMEX).</p>
+    <p>Advantages of trading stock options include the ability to hedge against potential losses, the ability to generate income through the sale of options, and the ability to speculate on the price movement of a stock without having to own the underlying stock.</p>
+    <p>Disadvantages of trading stock options include the risk of losing the entire amount invested, the complexity of options trading, and the limited time frame for exercising the option.</p>
+    <h2>What is crypto?</h2>
+    <p>Crypto is a digital or virtual currency that uses cryptography for security. Crypto is decentralized, meaning it is not controlled by any government or financial institution.</p>
+    <p>There are many different types of crypto, including Bitcoin, Ethereum, and Litecoin.</p>
+    <p>Crypto is traded on online exchanges, such as Coinbase and Binance.</p>
+    <p>Advantages of trading crypto include the potential for high returns, the ability to make anonymous transactions, and the decentralized nature of crypto.</p>
+    <p>Disadvantages of trading crypto include the risk of losing the entire investment, the volatility of crypto prices, and the lack of regulation and protection for crypto investors.</p>
+   <h2>Chart patterns and candle stick patterns</h2>
+    <p>Chart patterns and candle stick patterns are visual patterns that can be used to predict the direction of the market.</p>
+    <p>Common chart patterns include head and shoulders, triangles, and flags.</p>
+    <p>Common candle stick patterns include doji, hammer, and hanging man.</p>
+    <p>To use chart patterns and candle stick patterns, you need to be able to identify them on a chart and understand what they indicate about the market.</p>
+    <h2>Support and resistance</h2
+  </body>
+    </html>    
