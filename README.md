@@ -567,21 +567,6 @@ li {
 </html>
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Trading Stock Options and Crypto</title>
-	<link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-	<header>
-		<h1>Trading Stock Options and Crypto</h1>
-	</header>
-	<nav>
-		<ul>
-			<li><a href="#intro">Introduction</a></li>
-	<html>
-  <head>
-    <title>Trading Stock Options and Crypto</title>
-  </head>
   <body>
     <h1>Trading Stock Options and Crypto</h1>
     <p>This website provides an in-depth look at trading stock options and crypto. It covers the basics of what stock options and crypto are, common chart patterns and candle stick patterns, support and resistance, and trading indicators.</p>
